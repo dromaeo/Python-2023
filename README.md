@@ -1,5 +1,5 @@
 # Python-2023
-## Class
+## Course
 Advanced programming 2023
 
 UNIBO Science of climate
