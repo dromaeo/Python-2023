@@ -1,10 +1,10 @@
 # Python-2023
 ## Course
-Advanced programming 2023
+Advanced programming
 
-UNIBO Science of climate
+UNIBO 2023 Science of climate
 
 ## Quick links
 https://jupyter.org/try-jupyter/lab/?path=notebooks%2FIntro.ipynb
 
-> **Notes:** Files will be update during each lesson
+> **Notes:** Scripts will be added lecture by lecture
