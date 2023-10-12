@@ -1,6 +1,6 @@
 # Python-2023
-## CLASS NOTES
-### Course:
+CLASS NOTES
+## Course
 Advanced programming
 
 UNIBO 2023 Science of climate
