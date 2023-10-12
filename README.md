@@ -1,11 +1,12 @@
 # Python-2023
-CLASS NOTES
+> **Warning** This repertory contains class notes, taken and updated lecture by lecture
+
 ## Course
 Advanced programming
 
-UNIBO 2023 Science of climate
+Science of climate
 
-> **Notes:** Scripts contain class notes, taken and updated lecture by lecture
+University of Bologna 2023/24 
 
 ## Quick links
 https://jupyter.org/try-jupyter/lab/?path=notebooks%2FIntro.ipynb
