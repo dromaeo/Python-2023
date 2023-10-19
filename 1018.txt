@@ -1,0 +1,13 @@
+questa è una stringa
+sulla riga seguente c'è un numero
+10
+stringa 1
+stringa 2
+stringa 3
+stringa 4
+stringa 5
+stringa 6
+stringa 7
+stringa 8
+stringa 9
+stringa 10
